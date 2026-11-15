@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bdudzik.github.io/sitemap.xml
+Sitemap: https://bernddudzik.com/sitemap.xml
